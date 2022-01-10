@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testando tamanho de imagens</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <h2>Começando pelo maior</h2>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o 
+        tamanho do seu navegador.</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagem-p.jpg" type="image/jpg">
+        <source media="(max-width: 1050px)" srcset="imagem-m.jpg" type="image/jpg">       
+        <img src="imagem-g.jpg" alt="A imagem flexível funicona">
+    </picture>
+    <h2>Começando pelo menor</h2>
+    <picture>  
+        <source media="(min-width: 1050px)" srcset="imagem-g.jpg" type="image/jpg">
+        <source media="(min-width: 750px)" srcset="imagem-m.jpg" type="image/jpg">
+        <img src="imagem-p.jpg" alt="Imagem flexivel">
+    </picture>
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+   <!-- primeira forma <audio src="midia/musica-yt.mp3" controls autoplay></audio>-->
+   <audio preload="metadata" controls loop>
+        <source src="midia/musica2.mp3" type="audio/mpeg">
+        <source src="midia/musica2.ogg" type="audio/ogg">
+        <source src="midia/musica2.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não consegue reproduzir o áudio. <a href="midia/musica2.mp3">Cliqe aqui para baixar o arquivo </a></p>
+   </audio>
+   <h1>Trabalhando com videos</h1>
+   <h2>Youtube</h2>
+   <p>Pelo conteudo do pdf esse foi o que eu mais me interessei.</p>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DjOSM72cYac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+</body>
+</html>

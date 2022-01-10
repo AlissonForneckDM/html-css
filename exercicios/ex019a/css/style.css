@@ -1,0 +1,16 @@
+@charset "utf-8";
+h1#principal{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+h1.titulo{
+    color: darkgreen;
+}
+h2.topico{
+    color: green;
+    text-align: right;
+}
+.texto{
+    text-align: justify;
+}

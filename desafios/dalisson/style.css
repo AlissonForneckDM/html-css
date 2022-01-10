@@ -1,0 +1,38 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+:root{
+    --fonte-destaque:Arial;
+    --cor1: white;
+}
+body{
+    background-color: #84E1AD;
+    background-image: linear-gradient(to right,#3BD580, #1A5C38);
+    
+}
+main{
+    background-color:var(--cor1);
+    max-width: 900px;
+    min-width: 300px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color: #E0BD45;
+}
+footer{
+    margin-top: 10px;
+    padding: 10px;
+    width: 950px;
+    background-color: var(--cor1);
+}
+li > a{
+    text-decoration: none;
+}
+li > a:hover{
+    text-decoration: underline;
+}
