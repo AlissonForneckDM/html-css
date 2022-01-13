@@ -9,16 +9,29 @@
         body{
             background-image: url('imagens/wallpaper001.jpg');
         }
+        main{
+            width: 1000px;
+            margin: auto;
+            height: 1000px;
+            background-color: black;
+        }
+        div{
+            margin: 25px;
+            height: 27%;
+            width: 27%;
+        }
         div.quadrado{
             display: inline-block;
             border: 2px solid black;
             border-radius: 10px;
             background-color: lightgray;
-            width: 300px;
-            height: 300px;
+
         }
         div#q1{
             background-color: skyblue;
+        }
+        div#q1 > p{
+            display: inline;
         }
         div#q2{
             background-image: linear-gradient(to bottom, yellow, orange);
@@ -31,32 +44,38 @@
             border: 2px solid black;
             border-radius: 10px;
             background-color: lightgray;
-            width: 300px;
-            height: 300px;
+
+        }
+        div.quadrado3{
+            display: inline-block;
+            border: 2px solid black;
+            border-radius: 10px;
+            background-color: lightslategray;
+
         }
     </style>
 </head>
 <body>
-    <div class="quadrado" id="q1">
-
-    </div>
-    <div class="quadrado" id="q2">
-
-    </div>
-    <div class="quadrado" id="q3">
-
-    </div>
-    <br>
-    <div class="quadrado2" id="q4">
-
-    </div>
-
-    <div class="quadrado2" id="q5">
-
-    </div>
-
-    <div class="quadrado2" id="q6">
-
-    </div>
+    <main>
+        <div class="quadrado" id="q1">
+            
+        </div>
+        <div class="quadrado" id="q2">
+        </div>
+        <div class="quadrado" id="q3">
+        </div>
+        <div class="quadrado2" id="q4">
+        </div>
+        <div class="quadrado2" id="q5">
+        </div>
+        <div class="quadrado2" id="q6">
+        </div>
+        <div class="quadrado3" id="q7">
+        </div>
+        <div class="quadrado3" id="q8">
+        </div>
+        <div class="quadrado3" id="q9">
+        </div>
+    </main>
 </body>
 </html>
