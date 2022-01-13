@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste de Imagem de fundo</title>
     <style>
+        *{
+            margin: 0px;
+        }   
         body{
             background-image: url('imagens/wallpaper001.jpg');
         }
@@ -13,12 +16,17 @@
             width: 1000px;
             margin: auto;
             height: 1000px;
-            background-color: black;
+            background-color: red;
         }
         div{
             margin: 25px;
             height: 27%;
             width: 27%;
+        }
+        p{
+            display: inline;
+            color: white;
+            background-color: black;
         }
         div.quadrado{
             display: inline-block;
@@ -29,9 +37,6 @@
         }
         div#q1{
             background-color: skyblue;
-        }
-        div#q1 > p{
-            display: inline;
         }
         div#q2{
             background-image: linear-gradient(to bottom, yellow, orange);
@@ -58,7 +63,6 @@
 <body>
     <main>
         <div class="quadrado" id="q1">
-            
         </div>
         <div class="quadrado" id="q2">
         </div>
