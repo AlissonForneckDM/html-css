@@ -13,12 +13,18 @@
             width: 500px;
             border-collapse: collapse;
         }
+        caption{
+            background-color: grey;
+            font-weight: bold;
+            font-size: 1.5em;
+            padding: 5px;
+        }
         td,th{
             border: 1px solid black;
             padding: 10px;
         }
         thead,tfoot{
-            background-color: grey;
+            background-color: black;
             color: white;
         }
         thead:hover, tfoot:hover{
@@ -42,10 +48,11 @@
                 TR, TD, TH
     -->
     <table>
+        <caption>População das Unidades Federativas</caption>
         <thead>
             <tr>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 50px;">População</th>
             </tr>
         </thead>
         <tbody>
@@ -160,7 +167,7 @@
         </tbody>
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
+                <th scope="row">Total de Habitantes</th>
                 <td class="num">213.317.639</td>
             </tr>
         </tfoot>
