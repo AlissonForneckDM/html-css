@@ -13,17 +13,14 @@ Link para meu segundo projeto de HTML-CSS:
 <a href="https://alissonforneck.github.io/projeto-cordel/" target="_blank" rel="external">Projet Cordel</a>
 </p>
 <p>
-Aqui os exercicios do curso de HTML-CSS do CursoemVideo solucionados
-<a href="https://github.com/alissonforneck/html-css" target="_blank" rel="external">Exercicios</a>
+Aqui os <a href="https://github.com/alissonforneck/html-css" target="_blank" rel="external">exercicios do curso de HTML-CSS do CursoemVideo</a> solucionados
 </p>
 <p>
-Aqui um link para meu GitHub pessoal onde você pode encontrar mais coisas feitas pro mim
-<a href="https://github.com/alissonforneck" target="_blank" rel="external">GitHub</a>
+Aqui um link para meu <a href="https://github.com/alissonforneck" target="_blank" rel="external">GitHub </a>pessoal onde você pode encontrar mais coisas feitas por mim
 </p>
 <p>
-Aqui exercicios de JavaScript do CursoemVideo feitos por mim, alguns estão diferentes do proposto
+Aqui <a href="https://github.com/alissonforneck/javascript" target="_blank" rel="external">exercicios de JavaScript</a> do CursoemVideo feitos por mim, alguns estão diferentes do proposto
 pelo professor Guanabara, mas a ideia é a mesma, eu apenas fiz alguns do meu jeito
-<a href="https://github.com/alissonforneck/javascript" target="_blank" rel="external">Curso de JavaScript</a>
 </p>
 <!--
 <p>
