@@ -9,7 +9,7 @@ Link para meu primeiro projeto de HTML-CSS :
 <a href="https://alissonforneck.github.io/projeto-android/" target="_blank" rel="external">Projet Android</a>
 </p>
 <p>
-Link para meu seugundo projeto de HTML-CSS : 
+Link para meu segundo projeto de HTML-CSS : 
 <a href="https://alissonforneck.github.io/projeto-cordel/" target="_blank" rel="external">Projet Cordel</a>
 </p>
 <p>
