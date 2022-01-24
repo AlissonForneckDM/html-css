@@ -1,5 +1,5 @@
 # html-css
- <p><h1>Curso de HTML 5 e CSS 3 do curso em video</h1></p>
+ <p><h1>Curso de HTML 5 e CSS 3 do CursoemVideo</h1></p>
 
  <p>
  Aqui é a base do meu repertorio de HTML-CSS, estarei disponibilizando alguns links de coisas que eu fiz anteriormente
