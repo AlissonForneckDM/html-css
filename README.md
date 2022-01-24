@@ -16,7 +16,7 @@ Link para meu segundo projeto de HTML-CSS:
 Aqui os <a href="https://github.com/alissonforneck/html-css" target="_blank" rel="external">exercicios do curso de HTML-CSS do CursoemVideo</a> solucionados
 </p>
 <p>
-Aqui um link para meu <a href="https://github.com/alissonforneck" target="_blank" rel="external">GitHub </a>pessoal onde você pode encontrar mais coisas feitas por mim
+Aqui um link para meu <a href="https://github.com/alissonforneck" target="_blank" rel="external">GitHub pessoal</a> onde você pode encontrar mais coisas feitas por mim
 </p>
 <p>
 Aqui <a href="https://github.com/alissonforneck/javascript" target="_blank" rel="external">exercicios de JavaScript</a> do CursoemVideo feitos por mim, alguns estão diferentes do proposto
