@@ -2,14 +2,14 @@
  <p><h1>Curso de HTML 5 e CSS 3 do CursoemVideo</h1></p>
 
  <p>
- Aqui é a base do meu repertorio de HTML-CSS, estarei disponibilizando alguns links de coisas que eu fiz anteriormente
+ Aqui é a base do meu repositório de HTML-CSS, estarei disponibilizando alguns links de coisas que eu fiz anteriormente
  </p>
 <p>
-Link para meu primeiro projeto de HTML-CSS : 
+Link para meu primeiro projeto de HTML-CSS: 
 <a href="https://alissonforneck.github.io/projeto-android/" target="_blank" rel="external">Projet Android</a>
 </p>
 <p>
-Link para meu segundo projeto de HTML-CSS : 
+Link para meu segundo projeto de HTML-CSS: 
 <a href="https://alissonforneck.github.io/projeto-cordel/" target="_blank" rel="external">Projet Cordel</a>
 </p>
 <p>
@@ -21,7 +21,7 @@ Aqui um link para meu GitHub pessoal onde você pode encontrar mais coisas feita
 <a href="https://github.com/alissonforneck" target="_blank" rel="external">GitHub</a>
 </p>
 <p>
-Aqui exercicios de JavaScript do CursoemVideo feitos pro mim, alguns estã diferentes do proposto
+Aqui exercicios de JavaScript do CursoemVideo feitos por mim, alguns estão diferentes do proposto
 pelo professor Guanabara, mas a ideia é a mesma, eu apenas fiz alguns do meu jeito
 <a href="https://github.com/alissonforneck/javascript" target="_blank" rel="external">Curso de JavaScript</a>
 </p>
