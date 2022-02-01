@@ -4,11 +4,30 @@
     padding: 0;
 }
 body{
-    background-color: blue;
+    background-image: linear-gradient(to right, green, yellow);
+}
+header{
+    margin-bottom: 25px;
+}
+h1{
+    text-align: center;
 }
 main{
-    background-color: rgba(0, 0, 0, 0.425);
+    background-color: rgba(0, 0, 0, 0.267);
     width: 400px;
     height: 300px;
     margin: auto;
+    padding: 20px;
+    line-height: 2.5rem;
+}input{
+    height: 25px;
+    width: 250px;
+}
+#pass{
+    margin-left: 12px;
+}
+footer{
+    margin-top: 46.5vh;
+    background-color: white;
+    text-align: center;
 }
